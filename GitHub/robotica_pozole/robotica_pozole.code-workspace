@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "robotica_pozole",
+			"path": "."
+		},
+		{
+			"name": "GitHub",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "robotica_pozole"
+	}
+}
